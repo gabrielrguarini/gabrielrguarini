@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gabrielrguarini
+- 👀 I’m interested in JavaScript, HTML, CSS
+- 🌱 I’m currently learning JavaScript
