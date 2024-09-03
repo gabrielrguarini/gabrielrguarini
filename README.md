@@ -1,5 +1,8 @@
 ## 👋 Oi, eu sou o  Gabriel Guarini
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=transparent)
+<div align="center">
+  
+![gabrielrguarini's Stats](https://github-readme-stats.vercel.app/api?username=gabrielrguarini&theme=react&show_icons=true&hide_border=true&count_private=true)
+</div>
 - 👦🏻 Eu sou um entusiasta em tecnologia e apaixonado por inovação estou sempre buscando aprender algo novo e aplicar no meu dia a dia.
 - 🌱 Atualmente estou me aperfeiçoando em Node.js e Testes Automatizados além de continuar aperfeiçoando meus conhecimentos em front-end.
 
